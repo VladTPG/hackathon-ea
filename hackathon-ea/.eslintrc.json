@@ -1,0 +1,6 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "jsx-a11y/heading-has-content": "off" // Disable the specific rule
+  }
+}
